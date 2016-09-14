@@ -4,10 +4,11 @@
 ans = 1
 arr=[]
 N = int(input())
+#TODO fix 'int not iterable' issue
 for num in N:
-	arr.append(int(input())
-#TODO fix invalid sytax on bottom line
+	arr.append(int(input()))
+
 for val in N:
 	ans = (ans*arr[val])%(10**9 + 7)
 	
-print ans
+print (ans)
