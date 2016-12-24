@@ -1,4 +1,6 @@
-#fac.py writen by Jesse Gallarzo
+#fac.py 
+# Writen by Jesse Gallarzo
+# Test code for HR website
 
 N = int(input())
 ans = 1
