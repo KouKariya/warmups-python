@@ -2,6 +2,8 @@
 # By Jesse Gallarzo
 # coding=utf-8
 
+#TODO add a random variable for buffs
+
 #Game Variables
 killer_health = 10
 killer_attack = 2
